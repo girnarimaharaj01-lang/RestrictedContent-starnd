@@ -1,4 +1,4 @@
-"""
+"python -m unlock"
 This module initializes and starts two Pyrogram clients: one for the bot and one for a user bot.
 It loads necessary configuration from environment variables, sets up logging, and starts both bots.
 The bots interact with Telegram using their respective API credentials.
