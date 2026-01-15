@@ -1,4 +1,4 @@
-"""
+"python -m Unlock"
 This file initializes and starts the bot and user bot clients using Pyrogram.
 It ensures the bot operates in an asynchronous manner, handling errors gracefully
 and logging all actions for transparency and debugging.
